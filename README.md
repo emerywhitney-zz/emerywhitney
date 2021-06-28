@@ -2,7 +2,7 @@
 - 👀 I’m interested in Design.
 - 🌱 I’m currently learning Web Development @ Lighthouse Labs.
 - 💞️ I’m looking to collaborate on anything. I'm just interested in learning!
-- 📫 Don't be afraid to reach me via linkedIn.
+- 📫 Don't be afraid to reach me via LinkedIn.
 
 <!---
 emerywhitney/emerywhitney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
